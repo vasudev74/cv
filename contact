@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title><contact</title>
+  </head>
+  <body>
+    <ul>
+      <br>
+      <li>my name: <strong>vasudev</strong></li>
+      <li>mobile no: <strong>647336</strong>/li>
+      <li>address: <strong>mississsauga/strong></li>
+      <li>country:canada</li>
+  </ul>
+  <<!--
+    <form class="" action="index.html" method="post">
+  <label>username</label>
+    <input type="text" name="" value="">
+    <input type="color" name="" value=""><br>
+    <label>do you want to sign up for email</label>
+    <input type="checkbox" name="" value="">
+    <input type="submit" name="">
+</form>
+-->
+<form class="" action="index.html" method="post">
+  <label>your name</label>
+<input type="text" name="" value=""><br>
+<label>your email</label>
+<input type="email" name="" value=""><br>
+<label>password</label>
+<input type="password" name="" value="">
+<textarea name="your message" rows="10" cols="30"></textarea>
+<input type="submit" name="">
+</form>
+  </body>
+</html>
